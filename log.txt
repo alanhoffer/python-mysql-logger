@@ -1,0 +1,9 @@
+date=01/24/2022, 09:21 type=info method=log.create msg=Logged in userid=5
+date=01/24/2022, 09:37 type=info method=auth.login msg=Logged in userid=5
+date=01/24/2022, 10:28 type=info method=auth.login msg=Logged in userid=5
+date=01/24/2022, 11:02 type=info method=auth.login msg=Logged in userid=5
+date=01/24/2022, 11:02 type=info method=auth.logout msg=Logged out userid=None
+date=01/24/2022, 11:02 type=info method=auth.login msg=Logged in userid=5
+date=01/24/2022, 11:02 type=info method=auth.logout msg=Logged out userid=None
+date=01/24/2022, 11:04 type=info method=auth.login msg=Logged in userid=5
+date=01/24/2022, 11:04 type=info method=auth.logout msg=Logged out userid=None
